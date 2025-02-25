@@ -5,9 +5,9 @@
         "php": ">=8.2",
         "another-vendor/package": "1.*"
     },
-    "author": {
+    "authors": [{
       "name": "subiian",
       "email": "suibiantian@gmail.com"
-    },
-    "version": "v1.0.1"
+    }],
+    "version": "v1.0.2"
 }

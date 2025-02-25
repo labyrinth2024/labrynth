@@ -1,0 +1,12 @@
+{
+    "name": "labyrinth2024/labrynth",
+    "description": "test",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    },
+    "author": {
+      "name": "subiian",
+      "email": "suibiantian@gmail.com"
+    }
+}
